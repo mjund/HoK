@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"money.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}},\"scroll\":0.17235772357723578}"
+                },
+                {
                   "title": "markdown-examples",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-examples.md\",\"mode\":\"source\",\"source\":false}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "money.md",
+                "file": "computation/types.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "money.md",
+                "file": "computation/types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "money.md",
+                "file": "computation/types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "money.md"
+                "file": "computation/types.md"
               }
             }
           }
@@ -243,8 +249,10 @@
   },
   "active": "4ed189e6fb8d7859",
   "lastOpenFiles": [
-    "markdown-examples.md",
     "money.md",
+    "computation/types.md",
+    "computation",
+    "markdown-examples.md",
     "api-examples.md",
     "index.md",
     "Pasted image 20240812135010.png",
@@ -270,7 +278,6 @@
     "quranic structures.md",
     "صفات الله.md",
     "غضب الله.md",
-    "blockchain problems.md",
     "blockchain.canvas",
     "Pasted image 20240721224704.png",
     "Excalidraw",
