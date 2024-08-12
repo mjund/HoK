@@ -16,5 +16,7 @@
   "vim-toggle",
   "mini-vimrc",
   "obsidian-textgenerator-plugin",
-  "file-explorer-plus"
+  "file-explorer-plus",
+  "hide-folders",
+  "darlal-switcher-plus"
 ]
