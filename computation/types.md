@@ -5,8 +5,9 @@ types of computers:
 - inets
 - lambad cal
 
-[[money]]
 
-:::info
+[money](../money)
+
+::: info
 this info isn't complete 
 :::

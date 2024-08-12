@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63c47d2a93799e43",
+        "id": "231b5f8e3625a38a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed189e6fb8d7859",
+            "id": "c233ab98a0ae6294",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,30 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "money",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"money.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}},\"scroll\":0.17235772357723578}"
-                },
-                {
-                  "title": "markdown-examples",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-examples.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.182942708333332}"
-                },
-                {
-                  "title": "api-examples",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"api-examples.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":3}"
-                },
-                {
-                  "title": "index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":24}"
                 }
               ]
             },
@@ -247,10 +223,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4ed189e6fb8d7859",
+  "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
-    "money.md",
     "computation/types.md",
+    "money.md",
     "computation",
     "markdown-examples.md",
     "api-examples.md",
