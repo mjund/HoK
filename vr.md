@@ -1,5 +1,5 @@
+stand alone vr
 
-stand alone vr 
+pcvr
 
-pcvr 
-
+which vr to buy?
