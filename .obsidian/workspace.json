@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "markdown-examples",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-examples.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":67.9609375}"
+                },
+                {
+                  "title": "vr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vr.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "types",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computation/types.md\",\"mode\":\"source\",\"source\":false}}",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vr.md",
+                "file": "money.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computation/types.md",
+                "file": "money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computation/types.md",
+                "file": "money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computation/types.md"
+                "file": "money.md"
               }
             }
           }
@@ -254,54 +265,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "floating": {
-    "id": "5f5f81d57f205ba5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "91d2d5acf37f7a86",
-        "type": "window",
-        "children": [
-          {
-            "id": "c60e30173379b925",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a638522f9270ea35",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "computation/types.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 720,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a638522f9270ea35",
+  "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
+    "Pasted image 20240918173631.png",
+    "Pasted image 20240918173452.png",
     "markdown-examples.md",
     "vr.md",
     "computation/types.md",
@@ -330,7 +297,6 @@
     "الزمر.md",
     "quranic structures.md",
     "صفات الله.md",
-    "غضب الله.md",
     "blockchain.canvas",
     "Pasted image 20240721224704.png",
     "Excalidraw",
