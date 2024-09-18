@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"money.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.25040650406504067}"
+                },
+                {
                   "title": "Pasted-image-20240918173452",
                   "icon": "lucide-image",
                   "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted-image-20240918173452.png\"}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "money.md",
+                "file": "computation/ar-prayer.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "money.md",
+                "file": "computation/ar-prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "money.md",
+                "file": "computation/ar-prayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "money.md"
+                "file": "computation/ar-prayer.md"
               }
             }
           }
@@ -279,8 +285,9 @@
   },
   "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
-    "Pasted-image-20240918173452.png",
     "money.md",
+    "computation/ar-prayer.md",
+    "Pasted-image-20240918173452.png",
     "Pasted image 20240918173631.png",
     "markdown-examples.md",
     "vr.md",
