@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ar/money.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.25040650406504067}"
+                },
+                {
                   "title": "Untitled",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computation/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
@@ -70,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/money.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/money.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/money.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/money.md"
+                "file": "index.md"
               }
             }
           }
@@ -295,10 +301,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c233ab98a0ae6294",
+  "active": "a4e7f693f584eeda",
   "lastOpenFiles": [
-    "computation/Untitled.md",
     "ar/money.md",
+    "computation/Untitled.md",
     "ar",
     "computation/ar-prayer.md",
     "money.md",
