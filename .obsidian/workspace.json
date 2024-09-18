@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computation/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.13333333333333333}"
+                },
+                {
+                  "title": "ar-prayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computation/ar-prayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.13333333333333333}"
+                },
+                {
                   "title": "money",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"money.md\",\"mode\":\"source\",\"source\":false}}",
@@ -58,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computation/ar-prayer.md",
+                "file": "ar/money.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computation/ar-prayer.md",
+                "file": "ar/money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computation/ar-prayer.md",
+                "file": "ar/money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computation/ar-prayer.md"
+                "file": "ar/money.md"
               }
             }
           }
@@ -285,8 +297,11 @@
   },
   "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
-    "money.md",
+    "computation/Untitled.md",
+    "ar/money.md",
+    "ar",
     "computation/ar-prayer.md",
+    "money.md",
     "Pasted-image-20240918173452.png",
     "Pasted image 20240918173631.png",
     "markdown-examples.md",
@@ -314,8 +329,6 @@
     "quran reciations.md",
     "حنتوش.md",
     "الزمر.md",
-    "quranic structures.md",
-    "صفات الله.md",
     "blockchain.canvas",
     "Pasted image 20240721224704.png",
     "Excalidraw",
