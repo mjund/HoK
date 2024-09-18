@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Pasted-image-20240918173452",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted-image-20240918173452.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"money.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":50},\"to\":{\"line\":3,\"ch\":50}},\"scroll\":0.17235772357723578}"
+                },
+                {
                   "title": "markdown-examples",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-examples.md\",\"mode\":\"source\",\"source\":false}}",
@@ -267,12 +279,12 @@
   },
   "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
+    "Pasted-image-20240918173452.png",
+    "money.md",
     "Pasted image 20240918173631.png",
-    "Pasted image 20240918173452.png",
     "markdown-examples.md",
     "vr.md",
     "computation/types.md",
-    "money.md",
     "computation",
     "api-examples.md",
     "index.md",
