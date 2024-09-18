@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":3},\"to\":{\"line\":25,\"ch\":3}},\"scroll\":24}"
+                },
+                {
                   "title": "money",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ar/money.md\",\"mode\":\"source\",\"source\":false}}",
@@ -32,7 +38,7 @@
                 {
                   "title": "ar-prayer",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computation/ar-prayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ar/ar-prayer.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.13333333333333333}"
                 },
                 {
@@ -76,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ar/ar-prayer.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ar/ar-prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "ar/ar-prayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "ar/ar-prayer.md"
               }
             }
           }
@@ -303,17 +309,21 @@
   },
   "active": "a4e7f693f584eeda",
   "lastOpenFiles": [
-    "postcss.config.mts",
-    "bun.lockb",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/util.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/source-node.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/source-map-generator.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/source-map-consumer.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/quick-sort.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/mapping-list.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/binary-search.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/base64.js",
-    "node_modules/@vue/compiler-core/node_modules/source-map-js/lib/base64-vlq.js",
+    "index.md",
+    "node_modules/strip-json-comments/readme.md",
+    "node_modules/strip-json-comments/package.json",
+    "node_modules/strip-json-comments/license",
+    "node_modules/strip-json-comments/index.js",
+    "node_modules/strip-json-comments/index.d.ts",
+    "node_modules/strip-json-comments",
+    "node_modules/escalade/sync/index.mjs",
+    "node_modules/escalade/sync/index.js",
+    "node_modules/escalade/sync/index.d.ts",
+    "node_modules/escalade/sync/index.d.mts",
+    "node_modules/escalade/dist/index.mjs",
+    "node_modules/escalade/readme.md",
+    "node_modules/rtlcss/README.md",
+    "node_modules/rtlcss/CHANGELOG.md",
     "node_modules/@vue/compiler-core/node_modules/source-map-js/README.md",
     "node_modules/@vue/compiler-sfc/node_modules/postcss/node_modules/picocolors/README.md",
     "node_modules/@vue/compiler-sfc/node_modules/source-map-js/README.md",
@@ -325,7 +335,7 @@
     "node_modules/vue-demi/README.md",
     "ar/money.md",
     "computation/Untitled.md",
-    "computation/ar-prayer.md",
+    "ar/ar-prayer.md",
     "money.md",
     "Pasted-image-20240918173452.png",
     "Pasted image 20240918173631.png",
@@ -333,16 +343,12 @@
     "vr.md",
     "computation/types.md",
     "api-examples.md",
-    "index.md",
     "Pasted image 20240812135010.png",
     "Pasted image 20240812104700.png",
     "comp eng.md",
     "router.md",
     "hacking networks.md",
     "systematic programming.md",
-    "vr hardware.md",
-    "computer input.md",
-    "networking.md",
     "blockchain.canvas",
     "Pasted image 20240721224704.png",
     "math.canvas",
