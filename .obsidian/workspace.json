@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ar-prayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ar/ar-prayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.13333333333333333}"
+                },
+                {
                   "title": "index",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.md\",\"mode\":\"source\",\"source\":false}}",
@@ -82,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ar/ar-prayer.md",
+                "file": "vr.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ar/ar-prayer.md",
+                "file": "vr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ar/ar-prayer.md",
+                "file": "vr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ar/ar-prayer.md"
+                "file": "vr.md"
               }
             }
           }
@@ -307,8 +313,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a4e7f693f584eeda",
+  "active": "c233ab98a0ae6294",
   "lastOpenFiles": [
+    "ar/hi.md",
+    "ar/ar-prayer.md",
     "index.md",
     "node_modules/strip-json-comments/readme.md",
     "node_modules/strip-json-comments/package.json",
@@ -335,7 +343,6 @@
     "node_modules/vue-demi/README.md",
     "ar/money.md",
     "computation/Untitled.md",
-    "ar/ar-prayer.md",
     "money.md",
     "Pasted-image-20240918173452.png",
     "Pasted image 20240918173631.png",
@@ -348,7 +355,6 @@
     "comp eng.md",
     "router.md",
     "hacking networks.md",
-    "systematic programming.md",
     "blockchain.canvas",
     "Pasted image 20240721224704.png",
     "math.canvas",
